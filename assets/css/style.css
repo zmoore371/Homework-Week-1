@@ -8,19 +8,19 @@ body {
     background-color: #d9dcd6;
 }
 /*creates header banner color, sets font and font color*/
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display:inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 
 }
@@ -73,7 +73,8 @@ main section{
 main img{
     max-height: 200px;
 }
-div h2{
+
+main h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -105,7 +106,7 @@ aside img{display: block;
     max-width: 150px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -113,7 +114,7 @@ aside img{display: block;
 
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 
