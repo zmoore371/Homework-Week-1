@@ -45,7 +45,7 @@ a {
 p {
     font-size: 16px;
 }
-
+ /*I'm not sure if this is actually how this is supposed to be done, but it works so we're leaving it*/
 .hero {
     height: 800px;
     width: 100%;
@@ -55,13 +55,13 @@ p {
     background-position: center;
 }
 
-.content {
+main{
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content section{ 
+main section{ 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -70,7 +70,7 @@ p {
     color: #ffffff;
 }
 
-.content img{
+main img{
     max-height: 200px;
 }
 div h2{
@@ -78,7 +78,7 @@ div h2{
     font-size: 36px;
 }
 
-.benefits {
+aside  {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -89,18 +89,18 @@ div h2{
     background-color: #2589bd;
 }
 
-.sidebar{
+aside section{
     margin-bottom: 32px;
     color: #ffffff;
 
 }
 
-.sidebar h3{
+aside section h3{
     margin-bottom: 10px;
     text-align: center;
 }
 
-.sidebar img{display: block;
+aside img{display: block;
     margin: 10px auto;
     max-width: 150px;
 }
