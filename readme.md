@@ -15,4 +15,4 @@ Simply navigate to the link provided below to access the webpage. Use the naviga
 ## Link to Live Webpage
 
 Users can use the following link to access the live webpage for a demonstration
-[https://zmoore371.github.io/Homework-Week-1](Horiseon Social Solution Services)
+[https://zmoore371.github.io/Homework-Week-1] (Horiseon Social Solution Services)
