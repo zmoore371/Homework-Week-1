@@ -55,6 +55,8 @@ p {
     background-position: center;
 }
 
+/* properties for main body text location, images, etc...*/
+
 main{
     width: 75%;
     display: inline-block;
@@ -78,6 +80,8 @@ main h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*used element <aside> for a sidebar, but then started thinking that maybe it shouldn't be that way. Do more research.*/
 
 aside  {
     margin-right: 20px;
@@ -106,6 +110,8 @@ aside img{display: block;
     max-width: 150px;
 }
 
+/*changed div class footer to just footer. these set the font size location and padding for the footer*/
+
 footer {
     padding: 30px;
     clear: both;
@@ -120,7 +126,7 @@ footer h2 {
 
 .float-left {
     float: left;
-    margin-right: 25px;
+    margin-right: 25px; 
 }
 
 .float-right {
